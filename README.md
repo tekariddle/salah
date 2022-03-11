@@ -10,7 +10,7 @@
   </h1>
   <script>
   var nama = alert('Jawapan awak salah!');
-  window.location = '/storage/emulated/0/html/teka-riddle/tahap2/cuba-lagi.html';</script>
+  window.location = 'https://tekariddle.github.io/cuba-lagi';</script>
 </body>
 >
 </html>
